@@ -1,81 +1,89 @@
-# Hello 👋
+# Hello
 
 <div align="center">
   <img 
     src="https://64.media.tumblr.com/0a7d3e2701c79c265abc36df7524182d/tumblr_mo3u97oq9z1rsymklo1_500.gif" 
     alt="Lelouch vi Britannia commands you!"
+    width="420"
   />
 </div>
 
+<br/>
+<br/>
 
-</br>
-</br>
-</br>
+---
 
-# About Me 💬
-
-### - I'm Huy, a high school student from Melbourne, Australia, into software development and cyber security
-
-<div align="right">
-<!-- Side GIF / photo goes here -->
-</div>
-
-### - Currently learning
-
-- ✨ Software development fundamentals and building real projects  
-- ✨ C++ and low-level / systems concepts  
-- ✨ Cyber security basics and how modern anti-cheat / security systems work  
-- ✨ AI & machine learning, especially computer vision and object detection  
-
-
-</br>
-</br>
-</br>
-
-# Languages & Tools 👨💻 🛠
-
-</br>
+## About Me
 
 <p align="center">
-
-<!-- Replace this section with your own icons / badges later -->
-
-<strong>Languages / Tech I’m interested in:</strong>  
-C++ • Python • VB.NET • JavaScript • SQL  
-
-<strong>Tools & Platforms:</strong>  
-GitHub • Visual Studio Code • Windows 11 • Google Cloud & other cloud tools  
-
-<strong>Other Interests:</strong>  
-Machine Learning • Cyber Security • Game Development • Data & Analytics  
-
+  <img src="https://img.shields.io/badge/Location-Melbourne%2C%20Australia-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Student-High%20School-lightgrey?style=for-the-badge"/>
 </p>
 
-</br>
-</br>
-</br>
+I’m **Huy**, a high school student based in Melbourne, Australia.  
+I’m interested in **software development** and **cyber security**, with a focus on understanding how systems work under the hood.
 
-# Contact Me
+---
 
-</br>
+## Currently Learning
 
-If you want to reach out about coding, projects, study, or just to game and talk, feel free to ping me 😉
+<p align="left">
+  <img src="https://img.shields.io/badge/Software%20Development-Fundamentals-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-Systems%20Programming-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cyber%20Security-Basics-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Computer%20Vision-purple?style=flat-square"/>
+</p>
 
-<!-- Update these links when you’re ready -->
+- Building real projects to learn core software development concepts  
+- Learning C++ and low-level systems programming  
+- Exploring cyber security fundamentals and anti-cheat mechanisms  
+- Studying AI and machine learning, especially object detection  
+
+---
+
+## Languages and Tools
+
+### Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### Tools and Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio"/>
+  <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows"/>
+</p>
+
+### Other Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cyber%20Security-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Game%20Development-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20%26%20Analytics-black?style=flat-square"/>
+</p>
+
+---
+
+## Contact
+
+If you want to talk about coding, projects, studying, or gaming, feel free to reach out.
 
 <a href="mailto:huy.ho@gokids.edu.vn">
-  <img align="left" alt="Gmail" width="130" hight="100" src="<!-- gmail icon link here -->" />
+  <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- Add LinkedIn / other socials here later if you want -->
-</br>
-</br>
-</br>
+---
 
-<p align="center">  
-  <a href="https://github.com/fwhuy/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=fwhuy&show_icons=true&theme=radical" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fwhuy&show_icons=true&theme=radical" />
 </p>
 
-*************
+<hr/>
