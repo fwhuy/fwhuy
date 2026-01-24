@@ -2,7 +2,6 @@ Hello :)
 <div align="center">
   <img 
     <img src="./assets/lelouch.gif" width="420" alt="Lelouch vi Britannia">
-  />
 </div>
 
 <br/>
