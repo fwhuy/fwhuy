@@ -1,8 +1,7 @@
-# Hello
-
+Hello :) 
 <div align="center">
   <img 
-    src="https://64.media.tumblr.com/0a7d3e2701c79c265abc36df7524182d/tumblr_mo3u97oq9z1rsymklo1_500.gif" 
+    <img src="./assets/lelouch.gif" width="420" alt="Lelouch vi Britannia">
     alt="Lelouch vi Britannia commands you!"
     width="420"
   />
