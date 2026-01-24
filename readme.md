@@ -1,8 +1,12 @@
 # Hello 👋
 
 <div align="center">
-(https://www.tumblr.com/codegeass-world/51528900286/lelouch-vi-britannia-commands-you)
+  <img 
+    src="https://64.media.tumblr.com/0a7d3e2701c79c265abc36df7524182d/tumblr_mo3u97oq9z1rsymklo1_500.gif" 
+    alt="Lelouch vi Britannia commands you!"
+  />
 </div>
+
 
 </br>
 </br>
