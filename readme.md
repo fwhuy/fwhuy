@@ -82,8 +82,4 @@ If you want to talk about coding, projects, studying, or gaming, feel free to re
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fwhuy&show_icons=true&theme=radical" />
-</p>
-
 <hr/>
