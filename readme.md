@@ -2,8 +2,6 @@ Hello :)
 <div align="center">
   <img 
     <img src="./assets/lelouch.gif" width="420" alt="Lelouch vi Britannia">
-    alt="Lelouch vi Britannia commands you!"
-    width="420"
   />
 </div>
 
