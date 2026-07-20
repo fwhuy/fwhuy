@@ -1,11 +1,3 @@
-Hello :) 
-<div align="center">
-  <img 
-    <img src="./assets/lelouch.gif" width="800" alt="Lelouch vi Britannia">
-</div>
-
-<br/>
-<br/>
 
 ---
 
